@@ -14,7 +14,7 @@
 - 🌱 Currently learning **Backend Development (Node.js & Express)**
 - 💬 Ask me about anything **Frontend, UI/UX, or Firebase**
 - ⚡ Fun fact: *I build websites for fun & for clients too!*
-- 📫 How to reach me: [Email](mailto:youremail@example.com) | [LinkedIn](https://linkedin.com/in/yourusername) | [Portfolio](https://yourportfolio.com)
+- 📫 How to reach me: [Email](mailto:harshitmakraria9@gmail.com) | [LinkedIn](https://www.linkedin.com/in/harshit-makraria-992114249/) | [Portfolio](https://harshit-makraria.vercel.app/)
 
 ---
 
