@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer & AI Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Firebase;LLMs+%7C+AI+Agents+%7C+Appwrite+%7C+MongoDB;Open+Source+Contributor+%F0%9F%93%9D" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Firebase;Next+%7C+AI+Agents+%7C+N8N+%7C+Langchain;Open+Source+Contributor+%F0%9F%93%9D" />
 </p>
 
 ---
