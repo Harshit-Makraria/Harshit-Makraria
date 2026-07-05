@@ -42,30 +42,39 @@ Most of my work is **production SaaS built for paying clients** — repos are pr
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Tech Arsenal
 
-**Core:** TypeScript · Python · Next.js · React · Node.js · Tailwind
-
-**AI/Agents:** Claude & OpenAI APIs · LangChain · LangGraph · CrewAI · Vapi (voice) · Pinecone / ChromaDB · agentic RAG
-
-**Automation & Infra:** n8n · Make.com · Firebase · Appwrite · Vercel · Sanity · MongoDB · Prisma
-
+### 💻 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,python,react,nextjs,nodejs,tailwind,mongodb,firebase,appwrite,vercel,git,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass,vite,threejs&perline=12" />
 </p>
 
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harshit-Makraria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-Makraria&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+### ⚙️ Backend & APIs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,flask,django,graphql,prisma,npm,pnpm,yarn,nginx&perline=12" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-Makraria&theme=tokyonight&hide_border=true" />
+### 🗄️ Databases & BaaS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,supabase,firebase,appwrite&perline=12" />
 </p>
+
+### 🧠 AI / ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda&perline=12" />
+</p>
+
+### ☁️ Cloud, DevOps & Deployment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,cloudflare,docker,kubernetes,linux,ubuntu,bash,powershell&perline=12" />
+</p>
+
+### 🔧 Tools & Workflow
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,postman,figma,vscode,notion,md,electron,workers,regex&perline=12" />
+</p>
+
+**AI/Agents (no icons exist yet 😄):** Claude & OpenAI APIs · LangChain · LangGraph · CrewAI · Vapi (voice) · Pinecone / ChromaDB · n8n · Make.com · agentic RAG
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harshit-Makraria&label=Profile%20Views&color=6366F1&style=flat" alt="profile views" />
