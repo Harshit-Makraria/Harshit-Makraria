@@ -87,7 +87,7 @@ Most of my work is **production SaaS built for paying clients** — repos are pr
 
 Building something that needs AI agents, automation, or a serious web product? I take on select client work through Nexica AI.
 
-📧 **Business:** [info@nexicaai.com](mailto:info@nexicaai.com) · **Personal:** [harshitmakraria9@gmail.com](mailto:harshitmakraria9@gmail.com)
+📧 [harshitmakraria9@gmail.com](mailto:harshitmakraria9@gmail.com)
 
 ---
 
