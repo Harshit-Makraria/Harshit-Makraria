@@ -1,61 +1,87 @@
-<h1 align="center">Hi 👋, I'm Harshit Makraria</h1>
-<h3 align="center">A passionate Software Developer & AI Enthusiast from India 🇮🇳</h3>
+<h1 align="center">Harshit Makraria</h1>
+<h3 align="center">Founder @ <a href="https://nexicaai.com">Nexica AI</a> — I build AI agents and automation systems that do real work for real businesses.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Firebase;Next+%7C+AI+Agents+%7C+N8N+%7C+Langchain;Open+Source+Contributor+%F0%9F%93%9D" />
+  <a href="https://nexicaai.com"><img src="https://img.shields.io/badge/Nexica%20AI-Founder-6366F1?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/harshit-makraria-992114249/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://harshit-makraria.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:harshitmakraria9@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=700&lines=Agentic+AI+Systems+%7C+Voice+Agents+%7C+RL+Environments;Next.js+%2F+TypeScript+%2F+Python+%2F+LangGraph+%2F+n8n;Shipping+production+AI%2C+not+demos." />
 </p>
 
 ---
 
-### 🌟 About Me
+## 🎯 What I Do
 
-- 🔭 I’m currently working on **Tourmate** and **SS-Tech**
-- 🤖 Exploring **LLMs, AI agents, and autonomous app frameworks**
-- 🌱 Currently learning **LangChain, OpenAI APIs, and serverless AI**
-- 💬 Ask me about anything **Frontend, AI tools, or Firebase**
-- ⚡ Fun fact: *I build tools for humans using tools made by humans 🤖*
-- 📫 How to reach me: [Email](mailto:harshitmakraria9@gmail.com) | [LinkedIn](https://www.linkedin.com/in/harshit-makraria-992114249/) | [Portfolio](https://harshit-makraria.vercel.app/)
+I run **[Nexica AI](https://nexicaai.com)** — an AI automation company that designs, builds, and deploys agentic systems for businesses: AI audits, custom agents, voice AI, and end-to-end workflow automation.
+
+- 🚀 **Now building:** production SaaS for clients (CRMs, quoting platforms, content tools) + AI agent deployments
+- 🧠 **Deep in:** LangGraph, agentic RAG, agent evaluation (RL environments), voice AI (STT/TTS pipelines)
+- 🏆 **Recent:** Capgemini Agentify Buildathon 2026 (LabMind) · OpenEnv agent-evaluation competition
+- 💬 **Talk to me about:** AI agents, automation architecture, Next.js at scale, or shipping fast
 
 ---
 
-### 🛠️ Languages, Tools & AI Tech
+## 🚀 What I've Shipped
+
+Most of my work is **production SaaS built for paying clients** — repos are private, products are real.
+
+| Product | What it does | Stack |
+|---|---|---|
+| 🔧 **TradesPro** | Enterprise-grade SaaS for trades businesses — **AI quote generation**, campaign tracking, job & customer management, automated follow-ups. Hardened for production: rate limiting, error monitoring, security headers. | Next.js, TypeScript, Prisma |
+| 🏠 **MortgageFlow** | SaaS platform for mortgage brokers & real estate agents — dual broker/agent dashboards, type-safe RPC API, n8n-powered automation. | Next.js 16, Hono, Supabase, TanStack Query |
+| 🏢 **AgencyOS** | Full agency CRM with **three portals** — agency app (projects, tasks, invoices, analytics, AI), client portal, and admin panel. | Next.js 15, Prisma, shadcn/ui |
+| 📈 **Content Growth OS** | Creator content platform — competitor intelligence, AI idea generation, style library, content pipeline & engagement analytics. | Next.js, NextAuth, Prisma |
+| 🧩 **ArtifactDeploy** | Chrome extension + web app that one-click deploys Claude artifacts to your own Vercel account — OAuth flow, live preview, deployment history. | Chrome MV3, Vercel API, serverless |
+| 🌐 [**Nexica AI**](https://nexicaai.com) | My company's site & platform — AI audits, agent builds, automation services, 25+ published AI-industry articles. | Next.js, TypeScript, Sanity |
+
+🧪 Also: **LabMind** — a multimodal agentic AI lab partner built for the **Capgemini Agentify Buildathon 2026** ([repo](https://github.com/Harshit-Makraria/labmind) · [live](https://labmind-chi.vercel.app)), and an **RL agent-evaluation environment** for the OpenEnv competition ([repo](https://github.com/Harshit-Makraria/email-triage-openenv)).
+
+---
+
+## 🛠️ Stack
+
+**Core:** TypeScript · Python · Next.js · React · Node.js · Tailwind
+
+**AI/Agents:** Claude & OpenAI APIs · LangChain · LangGraph · CrewAI · Vapi (voice) · Pinecone / ChromaDB · agentic RAG
+
+**Automation & Infra:** n8n · Make.com · Firebase · Appwrite · Vercel · Sanity · MongoDB · Prisma
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,bootstrap,mongodb,express,git,github,firebase,appwrite,vite,vercel,postman,figma,python" />
-</p>
-
-#### 🧠 AI & LLMs
-> Tools & frameworks used for building AI apps
-
-- 🧩 **LLMs**: OpenAI (GPT-4), Claude, LLaMA, Gemini, Mistral
-- ⚙️ **Frameworks**: LangChain, LlamaIndex, AutoGen, AgentGPT
-- 📡 **APIs**: OpenAI, Together.ai, Replicate, HuggingFace, Cohere
-- 🤖 **Agentic Systems**: CrewAI, LangGraph, AutoGen Studio
-- 🧠 **Vector Stores**: Pinecone, ChromaDB, Weaviate, FAISS
-- 🗂️ **Embeddings**: OpenAI, Cohere, Instructor-XL
-- 🧪 **Experiment Tools**: Gradio, Streamlit, Chainlit
-
----
-
-### 🚀 Projects
-
-- 🔗 [**Tourmate**](https://github.com/harshitmakraria/tourmate): A travel planner & recommendation app built with React & Appwrite.
-- 🔗 [**SS-Tech**](https://github.com/harshitmakraria/sstech): A web consultancy platform for custom business websites.
-- 🔗 [**AI Assistant**](https://github.com/harshitmakraria/ai-assistant): A personal AI agent powered by GPT-4, LangChain, and OpenAI tools.
-- 🔗 [**Alumni Connect Platform**](https://github.com/harshitmakraria/alumni-connect): A complete alumni management web app.
-
----
-
-### 🤝 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/harshit-makraria-992114249/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:harshitmakraria9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail" /></a>
-  <a href="https://harshit-makraria.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel" /></a>
+  <img src="https://skillicons.dev/icons?i=ts,python,react,nextjs,nodejs,tailwind,mongodb,firebase,appwrite,vercel,git,figma" />
 </p>
 
 ---
 
-### 💡 Quote
+## 📊 GitHub Activity
 
-> “The future belongs to those who build with AI, not those who fear it.” — Harshit Makraria
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harshit-Makraria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-Makraria&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-Makraria&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harshit-Makraria&label=Profile%20Views&color=6366F1&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Harshit-Makraria?label=Followers&style=flat&color=6366F1" alt="followers" />
+</p>
+
+---
+
+## 🤝 Work With Me
+
+Building something that needs AI agents, automation, or a serious web product? I take on select client work through Nexica AI.
+
+📧 **Business:** [info@nexicaai.com](mailto:info@nexicaai.com) · **Personal:** [harshitmakraria9@gmail.com](mailto:harshitmakraria9@gmail.com)
+
+---
+
+<p align="center">
+  <i>"The future belongs to those who build with AI, not those who fear it."</i>
+</p>
