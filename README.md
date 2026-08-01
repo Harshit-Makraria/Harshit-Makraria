@@ -1,5 +1,5 @@
 <h1 align="center">Harshit Makraria</h1>
-<h3 align="center">Founder @ <a href="https://nexicaai.com">Nexica AI</a> — I build AI agents and automation systems that do real work for real businesses.</h3>
+<h3 align="center"> I build AI agents and automation systems that do real work for real businesses.</h3>
 
 <p align="center">
   <a href="https://nexicaai.com"><img src="https://img.shields.io/badge/Nexica%20AI-Founder-6366F1?style=for-the-badge&logo=openai&logoColor=white" /></a>
