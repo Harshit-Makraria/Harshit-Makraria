@@ -15,7 +15,7 @@
 
 ## 🎯 What I Do
 
-I run **[Nexica AI](https://nexicaai.com)** — an AI automation company that designs, builds, and deploys agentic systems for businesses: AI audits, custom agents, voice AI, and end-to-end workflow automation.
+I designs, builds, and deploys agentic systems for businesses: AI audits, custom agents, voice AI, and end-to-end workflow automation.
 
 - 🚀 **Now building:** production SaaS for clients (CRMs, quoting platforms, content tools) + AI agent deployments
 - 🧠 **Deep in:** LangGraph, agentic RAG, agent evaluation (RL environments), voice AI (STT/TTS pipelines)
