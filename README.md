@@ -2,7 +2,6 @@
 <h3 align="center"> I build AI agents and automation systems that do real work for real businesses.</h3>
 
 <p align="center">
-  <a href="https://nexicaai.com"><img src="https://img.shields.io/badge/Nexica%20AI-Founder-6366F1?style=for-the-badge&logo=openai&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/harshit-makraria-992114249/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://harshit-makraria.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:harshitmakraria9@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
